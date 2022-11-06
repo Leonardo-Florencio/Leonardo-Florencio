@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leonardo-Florencio
 - 👀 I’m interested in JavaScript, HTML, CSS and any other technology regarding Front-End development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects to help other and to grow my knowledge and experience
+- 💞️ I’m looking to collaborate on projects to help others and to grow my knowledge and experience
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-florencio-p/ and my email leonardo_florenciop@outlook.com
